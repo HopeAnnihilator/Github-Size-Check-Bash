@@ -11,5 +11,5 @@ Check github repo size using bash
 githubsize <url>
 
 example:
-githubsize https://github.com/HopeAnnihilator/Github-Size-Check-Bash/
+  githubsize https://github.com/HopeAnnihilator/Github-Size-Check-Bash/
 ```
