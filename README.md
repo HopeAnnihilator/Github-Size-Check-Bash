@@ -3,7 +3,7 @@ Check github repo size using bash
 
 # Install 
 ```bash
- curl -s https://raw.githubusercontent.com/HopeAnnihilator/Github-Size-Check-Bash/main/.bashrc  >> ~/.bashrc && source ~/.bashrc
+curl -s https://raw.githubusercontent.com/HopeAnnihilator/Github-Size-Check-Bash/main/.bashrc  >> ~/.bashrc && source ~/.bashrc
 ```
 
 # Usage
